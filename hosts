@@ -1,2 +1,2 @@
 [webserver]
-158.69.201.85
+IPADDRESS ansible_password=PASSWORD
